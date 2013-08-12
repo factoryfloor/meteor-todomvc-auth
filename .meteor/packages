@@ -1,4 +1,5 @@
-accounts
 accounts-ui
-accounts-facebook
 bootstrap
+accounts-facebook
+coffeescript
+accounts-password
